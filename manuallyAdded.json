@@ -235,8 +235,8 @@
                 "url": "https://www.mc-market.org/members/238024/"
             },
             "rating": {
-                "count": 0,
-                "average": 0
+                "count": 2,
+                "average": 3
             },
             "icon": {
                 "data": "",
@@ -244,7 +244,7 @@
             },
             "releaseDate": 1650027990,
             "updateDate": 1650027990,
-            "downloads": 22,
+            "downloads": 30,
             "premium": true,
             "id": "22789",
             "url": "https://www.mc-market.org/resources/22789/",
