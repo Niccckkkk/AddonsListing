@@ -227,8 +227,33 @@
         },
         {
             "likes": 0,
-            "name": "TEAL HUB | Custom Resource Pack! | Interactive Custom GUIs, Social System, & more! | 1.18.x",
+            "name": "TEAL HUB | Redefining the Hub",
             "tag": "The All-In-One Hub & Proxy Setup with a Unique Custom Resource Pack!",
+            "author": {
+                "id": 0,
+                "name": "Niccckk",
+                "url": "https://www.mc-market.org/members/238024/"
+            },
+            "rating": {
+                "count": 2,
+                "average": 5
+            },
+            "icon": {
+                "data": "",
+                "url": "https://niccckk.xyz/images/p9unf.png"
+            },
+            "releaseDate": 1650027990,
+            "updateDate": 1676573897,
+            "downloads": 82,
+            "premium": true,
+            "id": "22789",
+            "url": "https://www.mc-market.org/resources/22789/",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
+            "name": "Essential Tags | 38 Tags & Icons",
+            "tag": "38+ Tags, Prefixes, & Icons for your resource pack enabled server!",
             "author": {
                 "id": 0,
                 "name": "Niccckk",
@@ -240,14 +265,14 @@
             },
             "icon": {
                 "data": "",
-                "url": "https://i.imgur.com/bgUpuhX.png"
+                "url": "https://niccckk.xyz/images/ap52r.png"
             },
-            "releaseDate": 1650027990,
-            "updateDate": 1650027990,
-            "downloads": 22,
+            "releaseDate": 1675018697,
+            "updateDate": 1675623497,
+            "downloads": 12,
             "premium": true,
-            "id": "22789",
-            "url": "https://www.mc-market.org/resources/22789/",
+            "id": "26778",
+            "url": "https://builtbybit.com/resources/essential-tags-38-tags-icons.26778/",
             "type": "mcmarket"
         },
         {
